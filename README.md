@@ -4,7 +4,7 @@
 AI DORI란?  
 콘텐츠 윤리 경향성 분석 및 개선 가이드를 제공하는 AI 엔진(An AI System for Ethical Integrity and Fair Expression)  
 <p align="center">
-<img src="AI-DORI-로고-이름추가-배경추가.png" width="90%"></img>
+<img src="image/AI-DORI-로고-이름추가-배경추가.png" width="90%"></img>
 </p>
 
 ## 유사기술과의 차별점
@@ -28,12 +28,12 @@ AI DORI란?
 ## 결과물 예시
 ### 웹페이지 메인 화면
 - 사용자가 검색창을 통해 텍스트 콘텐츠(뉴스, 댓글, LLM 답변 등)을 입력
-<img src="AI-DORI_예시화면-1(메인홈).png" width="100%"></img>
+<img src="image/AI-DORI_예시화면-1(메인홈).png" width="100%"></img>
 
 
 ### 웹페이지 분석 결과 화면
 - AI가 윤리 경향성을 분석하여 시각화 자료와 함께 결과 제공 
-<img src="AI-DORI_예시화면-2(분석결과).png" width="100%"></img>
+<img src="image/AI-DORI_예시화면-2(분석결과).png" width="100%"></img>
 
 ## 아키텍처
 > - 사용자 입력: 분석하고자 하는 텍스트 입력
@@ -41,5 +41,5 @@ AI DORI란?
 > - 분석 결과: 웹 화면을 통해 사용자에게 등급화 및 시각화된 분석 결과 표시
 
 <div align="center">
-<img src="AI-DORI_아키텍처-3(합본).png" width="80%"></img>  
+<img src="image/AI-DORI_아키텍처-3(합본).png" width="80%"></img>  
 </div>
